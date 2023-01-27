@@ -228,7 +228,7 @@ class SettingsPage extends StatelessWidget {
                     kicon: Icons.code_outlined,
                     ktitle: "Github",
                     ksubtitle: "@SayanK",
-                    kURL: Uri.parse("https://www.github.com/SayanKabir"),
+                    kURL: Uri.parse("https://www.github.com/SayanKabir/passwordzzz"),
                     isDarkMode: __isDarkMode,
                   ),
                   DeveloperTile(
