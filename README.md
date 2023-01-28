@@ -3,6 +3,7 @@
   * Suggests strong passwords with granular control  
   * Users can alternatively use existing passwords  
   * Shows password strength based on length and dictionary search  
+  * Intelligently fetches app/website logo and name from URL
 * Password Manager  
   * Passwords are encrypted using AES algorithm  
   * Data stored in secure sqlite database  
